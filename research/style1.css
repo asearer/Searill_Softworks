@@ -1,0 +1,55 @@
+
+    
+
+h1{
+    text-align: center;
+}
+p {
+    text-align: justify;
+    
+}
+
+.int{
+    max-width: 500px;
+    position: relative;
+    left: 31%;
+}
+
+.simp{
+    position: relative;
+    left: 31%;
+}
+
+.para{
+    position: relative;
+    left: 40%;
+}
+
+.p1{
+    max-width: 250px;
+}
+
+.p2{
+    max-width: 250px;
+    
+    
+}
+
+.p3{
+    max-width: 250px;
+}
+
+.p4{
+    max-width: 250px;
+}
+
+.p5{
+    max-width: 250px;
+}
+
+.conc{
+    max-width: 500px;
+    position: relative;
+    left: 31%;
+}
+

@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.cont{
+    position: relative;
+    left: 31%;
+    max-width: 500px;
+}
